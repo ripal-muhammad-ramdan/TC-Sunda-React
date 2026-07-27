@@ -329,7 +329,7 @@ function App() {
                       <div style={styles.tdAction}>
                         <button style={styles.actionButton} title="Edit">✏️</button>
                         <button style={styles.actionButton} title="Hapus">🗑️</button>
-                        <button style={styles.actionButton} title="Add">Add</button>
+                        <button style={styles.actionButton} title="Add">+</button>
                       </div>
                     </td>
                   </tr>
