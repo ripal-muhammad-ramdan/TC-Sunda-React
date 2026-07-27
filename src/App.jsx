@@ -330,6 +330,7 @@ function App() {
                         <button style={styles.actionButton} title="Edit">✏️</button>
                         <button style={styles.actionButton} title="Hapus">🗑️</button>
                         <button style={styles.actionButton} title="Add">Add</button>
+                        <button style={styles.actionButton} title="Add">HendragSystem</button>
                       </div>
                     </td>
                   </tr>
